@@ -9,7 +9,7 @@ print_header("Discord Username Sniper")
 info("This tool will help you find a 3 character username on Discord!", 0.5)
 warn("Make sure tokens.txt is configured correctly!", 0.5)
 warn("Educational purposes only, btw. I'm not responsible for any misuse.", 0.5)
-info(f"Made by {highlight('@coin.dev')}")
+info(f"Made by {highlight('@94px')}")
 print_separator()
 
 info("Checking proxies... (proxies.txt)")
